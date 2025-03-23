@@ -27,8 +27,9 @@ This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS,
 To modify the game, you can edit the HTML, CSS, or JavaScript files as needed. The game logic is primarily contained within `script.js`, which handles player turns, win conditions, and game restarts.
 
 ## Screenshot
+![tic-tac-toe-preview](https://github.com/user-attachments/assets/44428936-e5f5-4235-8eda-cf6a311309dc)
+![tic-tac-toe-preview-image2](https://github.com/user-attachments/assets/5bb82799-eb6f-4185-99c2-646529d76669)
 
-![Tic-Tac-Toe Screenshot](path/to/screenshot.png)
 
 ## License
 
